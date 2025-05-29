@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm V</h1>
-<h3 align="center">I'm a business analyst and a hobbyist in traditional webdev and gamedev.</h3>
 
 <p align="left"> <a href="https://twitter.com/nyapiiiu" target="blank"><img src="https://img.shields.io/twitter/follow/nyapiiiu?logo=twitter&style=for-the-badge" alt="nyapiiiu" /></a> </p>
 
