@@ -8,9 +8,6 @@
 $ whoami
 > data analyst, artist, traditional webdev fan
 
-$ location
-> OSU
-
 $ tech_interests
 > ["coding", "art", "UX/UI", "data science"]
 ```
