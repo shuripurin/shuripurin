@@ -5,8 +5,11 @@
 
 ### About Me
 ```
+$ location
+> san francisco
+
 $ whoami
-> data analyst, artist, traditional webdev fan
+> data analyst, artist, traditional webdev fan, growth engineer
 
 $ tech_interests
 > ["coding", "art", "UX/UI", "data science"]
